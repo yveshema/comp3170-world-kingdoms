@@ -1,0 +1,1 @@
+body{background:#eee;margin:0}.countries{width:50%;background:#fff;margin:0 auto;padding:1em 2em;height:100vh}.countries a{text-decoration:none;color:purple}.flag img{width:50%}.details p{display:flex}.details p span{font-size:1.5em}.details p span:first-child{font-weight:700;min-width:6em}select{font-size:1.2em;padding:.5em;display:inline-block;width:100%}
